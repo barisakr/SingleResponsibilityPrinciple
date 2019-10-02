@@ -29,6 +29,8 @@ namespace SingleResponsibilityPrinciple
         public string GetFirstNameOfAccount(string AccountId) => String.Concat(this.FirstName," ",this.LastName);
 
         public void Login(string UserName, string Password) => Console.WriteLine($"{UserName} trying to log in");
+
+        public void LogOff(string UserName) => Console.WriteLine($"{UserName} is logged off");
     }
 
 }
