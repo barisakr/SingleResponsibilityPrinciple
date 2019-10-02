@@ -20,7 +20,7 @@ namespace SingleResponsibilityPrinciple
         
         public string Password { get; set; }
 
-        public void ChangePassword(Guid AccountId, string newPassword) => Console.WriteLine($"The Account of {AccountId} Password changed to new password {newPassport}");
+        public void ChangePassword(Guid AccountId, string newPassword) => Console.WriteLine($"The Account of {AccountId} Password changed to new password {newPassword}");
 
         public void ChangeAdress(string Street, int ZipCode, string City) => Console.WriteLine($"Address Changed");
     }
