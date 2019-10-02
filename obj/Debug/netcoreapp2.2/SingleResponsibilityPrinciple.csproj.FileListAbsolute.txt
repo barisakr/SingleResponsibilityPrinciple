@@ -1,0 +1,11 @@
+/Users/barisakar/Projects/SingleResponsibilityPrinciple/bin/Debug/netcoreapp2.2/SingleResponsibilityPrinciple.deps.json
+/Users/barisakar/Projects/SingleResponsibilityPrinciple/bin/Debug/netcoreapp2.2/SingleResponsibilityPrinciple.runtimeconfig.json
+/Users/barisakar/Projects/SingleResponsibilityPrinciple/bin/Debug/netcoreapp2.2/SingleResponsibilityPrinciple.runtimeconfig.dev.json
+/Users/barisakar/Projects/SingleResponsibilityPrinciple/bin/Debug/netcoreapp2.2/SingleResponsibilityPrinciple.dll
+/Users/barisakar/Projects/SingleResponsibilityPrinciple/bin/Debug/netcoreapp2.2/SingleResponsibilityPrinciple.pdb
+/Users/barisakar/Projects/SingleResponsibilityPrinciple/obj/Debug/netcoreapp2.2/SingleResponsibilityPrinciple.csprojAssemblyReference.cache
+/Users/barisakar/Projects/SingleResponsibilityPrinciple/obj/Debug/netcoreapp2.2/SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+/Users/barisakar/Projects/SingleResponsibilityPrinciple/obj/Debug/netcoreapp2.2/SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+/Users/barisakar/Projects/SingleResponsibilityPrinciple/obj/Debug/netcoreapp2.2/SingleResponsibilityPrinciple.AssemblyInfo.cs
+/Users/barisakar/Projects/SingleResponsibilityPrinciple/obj/Debug/netcoreapp2.2/SingleResponsibilityPrinciple.dll
+/Users/barisakar/Projects/SingleResponsibilityPrinciple/obj/Debug/netcoreapp2.2/SingleResponsibilityPrinciple.pdb
