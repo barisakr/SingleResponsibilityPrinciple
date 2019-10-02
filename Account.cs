@@ -14,6 +14,8 @@ namespace SingleResponsibilityPrinciple
 
         public string City { get; set; }
 
+        public string Country { get; set; }
+
         public Guid AccountId { get; set; } 
 
         public string UserName { get; set; }
