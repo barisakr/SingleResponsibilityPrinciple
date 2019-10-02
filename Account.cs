@@ -26,7 +26,7 @@ namespace SingleResponsibilityPrinciple
 
         public void ChangeAdress(string Street, int ZipCode, string City) => Console.WriteLine($"Address Changed");
 
-        public string GetFirstNameOfAccount(string AccountId) => this.FirstName;
+        public string GetFirstNameOfAccount(string AccountId) => String.Concat(this.FirstName," ",this.LastName);
     }
 
 }
